@@ -24,11 +24,11 @@ h1 {
 #blue-write {
     color: #20A9E5;
 }
-#first-p {
+#autor{
     color:#858585;
     font-size: 20px;
 }
-#second-p {
+#date {
     color: #858585;
     font-size: 10px;
 }
@@ -54,4 +54,13 @@ h1 {
 div {
     margin-top: 20px;
     margin-left: 10px;
+}
+
+th {
+    color: white;
+    background-color: #20A9E5;
+}
+
+.blue-line {
+    background-color: #B1E5F2;
 }

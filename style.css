@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    text-align: justify;
 }
  /* header */
 header {
@@ -33,8 +34,24 @@ h1 {
 }
 /* /manifesto */
 
+/*foto */
+.small {
+    font-size: 12px;
+}
+/* /foto */
+
+/*descrizione */
+.yellow {
+    background-color: yellow;
+}
+
+.description {
+    font-size: 18px;
+}
+
+/* /descrizione */
+
 div {
     margin-top: 20px;
     margin-left: 10px;
-    text-align: justify;
 }

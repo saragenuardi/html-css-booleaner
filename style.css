@@ -1,6 +1,5 @@
 * {
     margin: 0;
-    padding: 0;
     box-sizing: border-box;
     text-align: justify;
 }
@@ -71,8 +70,4 @@ h3 {
 }
 
 
-.top-text {
-    position: relative;
-    text-align: center;
-    color: white;
-}
+

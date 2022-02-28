@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ /* header */
+header {
+    background-color:#4EA0FF;
+    background-image: url(img/pattern.png);
+    background-repeat: repeat;
+    height: 150px;
+}
+#logo {
+    width: 200px;
+}
+/* /header */
+
+/*manifesto */
+
+h1 {
+    font-size: 40px;
+}
+#blue-write {
+    color: #20A9E5;
+}
+#first-p {
+    color:#858585;
+    font-size: 20px;
+}
+#second-p {
+    color: #858585;
+    font-size: 10px;
+}
+/* /manifesto */
+
+div {
+    margin-top: 20px;
+    margin-left: 10px;
+    text-align: justify;
+}
